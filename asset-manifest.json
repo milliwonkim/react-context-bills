@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-context-bills/static/css/main.f1fad755.chunk.css",
+    "main.js": "/react-context-bills/static/js/main.f38f2940.chunk.js",
+    "main.js.map": "/react-context-bills/static/js/main.f38f2940.chunk.js.map",
+    "runtime-main.js": "/react-context-bills/static/js/runtime-main.820bca3f.js",
+    "runtime-main.js.map": "/react-context-bills/static/js/runtime-main.820bca3f.js.map",
+    "static/js/2.26ccc908.chunk.js": "/react-context-bills/static/js/2.26ccc908.chunk.js",
+    "static/js/2.26ccc908.chunk.js.map": "/react-context-bills/static/js/2.26ccc908.chunk.js.map",
+    "index.html": "/react-context-bills/index.html",
+    "precache-manifest.0a3ebcea133460832045e1c9095d9592.js": "/react-context-bills/precache-manifest.0a3ebcea133460832045e1c9095d9592.js",
+    "service-worker.js": "/react-context-bills/service-worker.js",
+    "static/css/main.f1fad755.chunk.css.map": "/react-context-bills/static/css/main.f1fad755.chunk.css.map",
+    "static/js/2.26ccc908.chunk.js.LICENSE.txt": "/react-context-bills/static/js/2.26ccc908.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.820bca3f.js",
+    "static/js/2.26ccc908.chunk.js",
+    "static/css/main.f1fad755.chunk.css",
+    "static/js/main.f38f2940.chunk.js"
+  ]
+}
